@@ -1,4 +1,4 @@
-# Classicial machine learning
+# Classicial machine learning 
 
 ## Technology
 
